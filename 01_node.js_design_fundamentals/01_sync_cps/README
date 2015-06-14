@@ -1,0 +1,4 @@
+This sample demonstrates how synchronous continuation-passing style works.
+To run this sample, execute the following command from a terminal:
+
+  node main

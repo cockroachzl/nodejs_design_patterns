@@ -1,0 +1,7 @@
+This sample is only a playground to experiment with the different
+techniques for creating a Proxy.
+
+To run the samples execute the commands:
+   node composition_inheritance
+   node composition_closure
+   node augmentation

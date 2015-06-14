@@ -1,0 +1,12 @@
+This sample demonstrates how to write data into a Writable stream.
+It starts an HTTP server that writes a random sequence of strings inside
+the response stream.
+
+You must first install the dependencies:
+  npm install
+  
+Then to run the program:
+  node entropyServer
+  
+Connect to the server with a browser or curl:
+  curl localhost:8080

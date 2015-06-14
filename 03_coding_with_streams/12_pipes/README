@@ -1,0 +1,6 @@
+This sample demonstrates how to pipe streams together.  
+In particular, the program pipes the standard input into a string replace
+stream and then back to the standard output.
+
+To run the program (example command line):
+  echo Hello World! | node replace World Node.js

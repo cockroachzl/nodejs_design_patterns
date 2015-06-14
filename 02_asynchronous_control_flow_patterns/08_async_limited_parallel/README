@@ -1,0 +1,9 @@
+This sample demonstrate how to run a set of task using a limited parallel 
+flow by using the async library.
+
+To run the sample code first install the dependencies:
+  npm install
+  
+Then execute the 'spider' module by providing a valid url (including the protocol)
+  node spider http://www.example.com
+

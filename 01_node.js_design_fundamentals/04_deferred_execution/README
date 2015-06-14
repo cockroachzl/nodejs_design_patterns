@@ -1,0 +1,5 @@
+This sample demonstrates how make a function consistently asynchronous
+by using process.nextTick().
+To run this sample, execute the following command from a terminal:
+
+  node main

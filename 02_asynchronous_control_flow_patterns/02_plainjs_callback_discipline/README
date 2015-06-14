@@ -1,0 +1,9 @@
+This sample demonstrates how to apply the "callback discipline" to the
+web spider sample.
+
+To run the application, we first need to install the dependencies:
+  npm install
+  
+Then execute the 'spider' module by providing a valid url (including the protocol)
+  node spider http://www.example.com
+

@@ -1,0 +1,18 @@
+This sample demonstrates how to share data validation and 
+business logic of an application using Backbone Models.
+
+First, make sure to install the dependencies:
+  npm install
+  
+Then make sure you have browserify installed globally on your machine:
+  npm install -g browserify
+
+Then create a client bundle with:
+  browserify client/index.js -o www/bundle.js
+  
+Next, start the server:
+  node app
+  
+Now, to open the application, navigate with a browser to the 
+following address:
+  http://localhost:8080

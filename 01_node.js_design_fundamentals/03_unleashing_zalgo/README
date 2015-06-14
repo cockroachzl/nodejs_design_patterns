@@ -1,0 +1,5 @@
+This sample demonstrates how a function with mixed synchronous/asynchronous
+behavior can easily create troubles.
+To run this sample, execute the following command from a terminal:
+
+  node main

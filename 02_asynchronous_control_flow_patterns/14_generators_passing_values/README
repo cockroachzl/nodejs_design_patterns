@@ -1,0 +1,5 @@
+This sample demonstrates how to pass values back into a generator
+
+To run the sample code issue the command:
+  node --harmony-generators twoWayGenerator
+

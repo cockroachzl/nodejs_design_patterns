@@ -1,0 +1,4 @@
+This sample demonstrates how propagate errors using callbacks.
+To run this sample, execute the following command from a terminal:
+
+  node main

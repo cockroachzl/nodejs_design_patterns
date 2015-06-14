@@ -1,0 +1,9 @@
+This sample demosntrates how to create a custom Readable stream.
+The program generates a random sequence of strings from a custom Readable stream
+and prints the results to the standard output.
+
+You must first install the dependencies:
+  npm install
+  
+Then run the program:
+  node generateRandom

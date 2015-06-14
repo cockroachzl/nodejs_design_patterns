@@ -1,0 +1,11 @@
+This sample demonstrates how to multiplex and demultiplex streams.
+In particular, the program streams the standard output and standard error of a process
+to a remote server, using a single TCP connection.
+
+First, run the server:
+  node server
+  
+Then, run the client, providing a Node.js program to launch.
+For example to multiplex the stdout and stderr of 'generateData.js',
+use the following command:
+  node client generateData.js

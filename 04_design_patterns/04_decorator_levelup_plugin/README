@@ -1,0 +1,9 @@
+This sample demonstrates the Decorator pattern.
+In particular the sample implements a LevelUP plugin which allows to receive
+a notification every time an object with a given pattern is saved in the database.
+
+First install all the dependencies:
+  npm install
+
+To run the sample:
+  node levelSubscribeTest

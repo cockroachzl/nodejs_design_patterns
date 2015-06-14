@@ -1,0 +1,8 @@
+This sample demonstrates how to implement a custom Writable stream.
+The program creates a file from every object written into the stream.
+
+You must first install the dependencies:
+  npm install
+  
+Then to run the program:
+  node writeToFiles

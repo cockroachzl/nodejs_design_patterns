@@ -1,0 +1,6 @@
+This sample demonstrates how to gzip a file using a streaming API.
+
+To run the program issue the command:
+  node gzip <path to file>
+  
+The gzipped file will be created in the same directory of the original file.

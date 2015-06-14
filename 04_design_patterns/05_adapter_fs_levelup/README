@@ -1,0 +1,9 @@
+This sample demonstrates how to create an Adapter object. 
+In particular, this code exposes the LevelUp API using the 
+same interface of the 'fs' module.
+
+To install all the dependencies:
+  npm install
+
+To run the sample:
+   node fsAdapterTest

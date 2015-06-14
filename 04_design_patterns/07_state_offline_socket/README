@@ -1,0 +1,11 @@
+This sample demonstrates how to use the State pattern 
+to create a client socket that doesn't break when it loses 
+connection with the server.
+
+To install all the dependencies:
+  npm install
+
+To try the sample run in two different terminals:
+   node server
+And then:
+   node client

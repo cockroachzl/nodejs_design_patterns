@@ -1,0 +1,11 @@
+This sample demonstrates how to execute a set of tasks in parallel using streams.
+In particular, the application will read from a file a list of URLs and will
+check if each one of them is accessible.
+
+To install all the dependencies:
+  npm install
+
+To run the program (example command line):
+  node checkUrls urlList.txt
+  
+The output will be written in the results.txt file.

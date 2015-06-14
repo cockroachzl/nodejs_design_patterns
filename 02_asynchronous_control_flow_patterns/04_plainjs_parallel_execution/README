@@ -1,0 +1,8 @@
+This sample demonstrates how to execute a set of asynchronous tasks in parallel.
+
+To run the sample first install its dependencies:
+  npm install
+  
+Then execute the 'spider' module by providing a valid url (including the protocol)
+  node spider http://www.example.com
+

@@ -1,0 +1,11 @@
+This sample demonstrate how uncaught exceptions work in an 
+asynchronous environment.
+
+The module uncaught.js shows how uncaught exceptions end up
+with terminating the application:
+
+  node uncaught
+
+The module uncaughtIntercept.js shows how to intercept uncaught exceptions:
+
+  node uncaughtIntercept

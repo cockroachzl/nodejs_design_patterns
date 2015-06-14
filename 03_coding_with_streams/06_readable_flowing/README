@@ -1,0 +1,5 @@
+This sample code demonstrates how to read from a stream using the flowing mode.
+The program reads from the standard input stream and echoes the data back to the standard output. 
+
+To run the program:
+  node readStdin

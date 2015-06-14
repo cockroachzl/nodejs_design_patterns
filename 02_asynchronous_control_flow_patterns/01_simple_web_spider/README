@@ -1,0 +1,10 @@
+This sample demonstrates how to implement a simple web spider using
+asynchronous API. Please note that this implementation suffer from 
+the "callback hell" problem.
+
+To run the sample code first install the dependencies:
+  npm install
+  
+Then execute the 'spider' module by providing a valid url (including the protocol)
+  node spider http://www.example.com
+

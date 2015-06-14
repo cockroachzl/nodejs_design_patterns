@@ -1,0 +1,12 @@
+This sample demonstrates how to handle the back-pressure coming from a Writable stream.
+The HTTP server implemented in the sample, produces a random sequence 
+of strings trying to overload the socket causing the back-pressure to kick in.
+
+You must first install the dependencies:
+  npm install
+  
+Then to run the program:
+  node entropyServer
+  
+Connect to the server with a Browser or curl:
+  curl localhost:8080

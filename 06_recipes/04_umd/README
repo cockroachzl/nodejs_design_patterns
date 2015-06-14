@@ -1,0 +1,12 @@
+This sample demonstrates how to load an UMD module using Node.js,
+AMD or browser globals.
+
+First, install all dependencies with:
+  npm install
+
+Then open with a browser the files:
+  using_amd.html
+  using_globals.html
+  
+To try the UMD module in Node.js run:
+  node using_commonjs.js

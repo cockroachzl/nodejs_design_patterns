@@ -1,0 +1,7 @@
+This sample demonstrates how to fork a stream.
+The application generates oth the md5 and sha1 hashes of a given file.
+
+To run the program:
+  node generateHashes <path to file>
+  
+This generates two files, one containing the MD5 hash and the other the SHA1 hash.

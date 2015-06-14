@@ -1,0 +1,12 @@
+This sample demonstrates how to combine multiple streams together.
+The sample is split in two parts, one application that compresses and encrypts a file,
+another one that decompresses and decrypts a file.
+
+To install all the dependencies:
+  npm install
+
+To compress and encrypt a file:
+  node archive <password> <path to file>
+  
+To decompress and dencrypt a file:
+  node unarchive <password> <path to file>

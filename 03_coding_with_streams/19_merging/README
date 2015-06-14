@@ -1,0 +1,8 @@
+This sample demonstrates how to merge multiple streams into one.
+In particular, this program creates a tarbal from 2 directories.
+
+To install all the dependencies:
+  npm install
+
+To run the program:
+  node mergeTar destination.tar /path/to/dirA /path/to/dirB

@@ -1,0 +1,7 @@
+This sample code demonstrates how to create a gzipped file
+using buffered API.
+
+To run the program issue the command:
+  node gzip <path to file>
+  
+The gzipped file will be created in the same directory of the original file.

@@ -1,0 +1,5 @@
+This sample demonstrate how to create a Transform stream that replaces all 
+the occurrences of a string.
+
+To run the sample:
+  node replaceStreamTest

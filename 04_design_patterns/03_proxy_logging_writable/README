@@ -1,0 +1,6 @@
+This sample demonstrates how to create a proxy for a Writable stream
+using object composition.
+In particular the proxy logs any invocation to its write() method.
+
+To run the sample execute the command:
+   node loggingWritable

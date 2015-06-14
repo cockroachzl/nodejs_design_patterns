@@ -1,0 +1,8 @@
+This sample demonstrates how to execute in sequence a set of asynchronous tasks.
+In particular, this program concatenates a list of files given in input.
+
+To install all the dependencies:
+  npm install
+
+To run the program (example command line):
+  node concat concatenatedFile.txt src1.txt src2.txt

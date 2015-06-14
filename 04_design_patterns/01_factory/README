@@ -1,0 +1,8 @@
+This sample demonstrates how the Factory pattern can be used to create a different
+object depending on the value of an environment variable.
+
+To run the program using the full fledged profiler use the command:
+  export NODE_ENV=development; node profilerTest
+  
+To run the same program but using the mock profiler:
+  export NODE_ENV=production; node profilerTest

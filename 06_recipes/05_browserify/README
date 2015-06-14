@@ -1,0 +1,14 @@
+This sample demonstrates how to use Browserify to create 
+a client side bundle from CommonJS modules.
+
+First install all dependencies with:
+  npm install
+
+Then make sure you have browserify installed globally on your machine:
+  npm install -g browserify
+  
+Then create a client bundle with:
+  browserify main.js -o bundle.js
+
+Next, with a browser open the file:
+  magic.html

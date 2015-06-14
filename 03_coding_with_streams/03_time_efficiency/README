@@ -1,0 +1,8 @@
+This sample demonstrates how to stream a file to a remote server,
+compressing and decompressing the data on the fly.
+
+To run the program first start the server:
+  node gzipReceive
+
+Then run the client selecting the file to send:
+  node gzipSend <path to file> localhost
